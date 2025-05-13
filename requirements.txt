@@ -1,4 +1,9 @@
 yfinance
-pandas
+fastapi
+pydantic
 requests
-beautifulsoup4
+uvicorn
+pandas
+sentence-transformers
+faiss-cpu
+numpy
